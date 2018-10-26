@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Zelda",
+        "image": "https://vignette.wikia.nocookie.net/zelda/images/5/5f/Zelda_Artwork_%28Breath_of_the_Wild%29.png/revision/latest?cb=20170306081400"
+    },
+    {
+        "id": 2,
+        "name": "Link",
+        "image": "https://vignette.wikia.nocookie.net/zelda/images/5/57/Breath_of_the_Wild_Artwork_Link_%28Official_Artwork%29.png/revision/latest?cb=20160623185226"
+    },
+    {
+        "id": 3,
+        "name": "Ganon",
+        "image": "https://vignette.wikia.nocookie.net/zelda/images/1/1e/Ganon_Artwork_%28Ocarina_of_Time%29.png/revision/latest?cb=20110828041255"
+    },
+    {
+        "id": 4,
+        "name": "Mipha",
+        "image": "https://vignette.wikia.nocookie.net/zelda/images/d/d9/Mipha_Artwork_%28Breath_of_the_Wild%29.png/revision/latest?cb=20170306080925"
+    },
+    {
+        "id": 5,
+        "name": "Impa",
+        "image": "https://vignette.wikia.nocookie.net/zelda/images/9/90/Impa_Artwork_%28Skyward_Sword%29.png/revision/latest?cb=20111110194028"
+    },
+    {
+        "id": 6,
+        "name": "Urbosa",
+        "image": "https://vignette.wikia.nocookie.net/zelda/images/0/02/Urbosa_Artwork_%28Breath_of_the_Wild%29.png/revision/latest?cb=20170306150602"
+    },
+    {
+        "id": 7,
+        "name": "Revali",
+        "image": "https://vignette.wikia.nocookie.net/zelda/images/0/0e/Revali_Artwork_%28Breath_of_the_Wild%29.png/revision/latest?cb=20170220194609"
+    },
+    {
+        "id": 8,
+        "name": "Daruk",
+        "image": "https://vignette.wikia.nocookie.net/zelda/images/6/66/Daruk_Artwork_%28Breath_of_the_Wild%29.png/revision/latest?cb=20170306075733"
+    },
+    {
+        "id": 9,
+        "name": "Bokoblin",
+        "image": "https://vignette.wikia.nocookie.net/zelda/images/c/c8/Breath_of_the_Wild_Artwork_Red_Bokoblin_%28Official_Artwork%29.png/revision/latest?cb=20160623184611"
+    },
+    {
+        "id": 10,
+        "name": "Link Action",
+        "image": "https://vignette.wikia.nocookie.net/zelda/images/b/b1/The_Legend_of_Zelda_WiiU_Artwork.png/revision/latest?cb=20180523222231"
+    },
+    {
+        "id": 11,
+        "name": "Guardian",
+        "image": "https://vignette.wikia.nocookie.net/zelda/images/7/72/Guardian_Artwork.png/revision/latest?cb=20160622181257"
+    },
+    {
+        "id": 12,
+        "name": "Link on Horse",
+        "image": "https://i.kym-cdn.com/photos/images/original/001/132/697/558.jpg"
+    }
+]

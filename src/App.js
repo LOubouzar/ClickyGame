@@ -1,25 +1,29 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import Navbar from "./components/navbar";
+import Container from "./components/container";
 import './App.css';
 
 class App extends Component {
+  state = {
+    count: 0,
+    topScore: 0
+  }
+  
+  updateCurrentScore = (newCount) => {
+    this.setState({count: newCount});
+  }
+
+  updateTopScore = (newTopScore) => {
+    if (newTopScore > this.state.topScore) {
+      this.setState({topScore: newTopScore -1})
+    }
+
+  }
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+      <div>
+        <Navbar score={this.state.count} topScore={this.state.topScore} />
+        <Container updateCurrentScore={this.updateCurrentScore} updateTopScore={this.updateTopScore}/>
       </div>
     );
   }
